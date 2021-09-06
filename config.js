@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "'Lovee youu",
     introTitle: 'Linh Giangg',
-    introDesc: `Tha lỗi cho anh nhé!! Nếu không click vào nút dưới thì là đồng ý rồi :)))) `,
+    introDesc: `Tha lỗi cho anh nhé!! Nếu em không click vào nút dưới thì là đồng ý rồi :)))) `,
     btnIntro: 'okii nha em đồng ý <3333',
     title: 'Anh không cố ý nói những lời khó nghe đó, anh xin lỗi và đã cư xử trẻ con',
     desc: 'em đừng cáu anh nữa nhéeee ',
