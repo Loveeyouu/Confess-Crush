@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    titleWeb: "Lovee youu",
+    introTitle: 'Linh Giangg',
+    introDesc: `Tha lỗi cho anh nhé!! Nếu không click vào nút dưới thì là đồng ý rồi :)))) `,
+    btnIntro: 'okii nha em đồng ý <3333',
+    title: 'Anh không cố ý nói những lời khó nghe đó, anh xin lỗi vì đã cư xử trẻ con',
+    desc: 'Em đừng cáu anh nữa nhéeee ',
+    btnYes: 'Được thui <33',
+    btnNo: 'Đéo cút cmm đi',
+    question: 'Phải làm gì để em hết giận anh đây 🥺 🥺 🥺',
+    btnReply: 'câu trả lời ở đây nàyyyyyy',
+    reply: 'Không làm gì cũng tự hết giận hihi <333333',
+    mess: 'Anh biết em có bề ngoài mạnh mẽ nhưng thực chất có một trái tim khá yếu đuối',
+    messDesc: 'Hết dịch anh sẽ bù đắp cho những tổn thương của em nhaaaaaaaaaaaaaaa 😘😘',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'Trong thời gian dịch vừa rồi, đã có rất nhiều vấn đề xảy ra. Anh biết em là một người dễ cáu nhưng lại hết giận rất nhanh. Dù vậy, anh cũng không muốn em cáu dù chỉ là một chút. Nhưng anh đã vô ý làm em buồn và phải suy nghĩ nhiều chuyện và anh thật lòng xin lỗi vì điều đấy. Anh là người khá cứng đầu, thiếu kiên nhẫn, hay tùy hứng và đôi lúc vô tâm với em và anh đang cố gắng để sửa những sai lầm đó. Nói nhiều không bằng hành động nhiều nên trong thời gian tới anh sẽ chứng minh cho em thấy những điều đó là sự thật.',
+    messLink: 'https://www.facebook.com/ngao1312' 
 }
