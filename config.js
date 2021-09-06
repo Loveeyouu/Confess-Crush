@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: Đéo cút cmm đi',
     question: ''Phải làm gì để em hết giận anh đây 🥺 🥺 🥺',
     btnReply: 'câu trả lời ở đây nàyyyyyy',
-    reply: 'Không làm gì cũng tự hết giận hihi <333333',
+    reply: 'Không làm gì cũng tự hết giận hihi <33333',
     mess: 'Anh biết em có bề ngoài mạnh mẽ nhưng thực chất trái tim khá yếu đuối',
     messDesc: 'Hết dịch a sẽ bù đắp cho những tổn thương của e nhaaaaaaaaaaaaaaa 😘😘',
     btnAccept: 'Okiiiii lun <3',
